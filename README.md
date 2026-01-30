@@ -4,4 +4,4 @@ Hi, my name is Łukasz Lewczak and I'm currently studying Computer Sience at AGH
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gralog.) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/llewczak/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lewczakluk@student.agh.edu.pl) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github-pages&logoColor=007218)](https://llewczak.github.io/)
+[![Website](https://img.shields.io/badge/My_Website-007218?logo=google-chrome&logoColor=white)](https://llewczak.github.io/)
